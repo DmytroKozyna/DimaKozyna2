@@ -1,0 +1,19 @@
+
+
+.imagr{
+    height: 400px;
+    width: 400px;
+    border-radius: 70px;
+    
+    
+}   
+
+.father{
+    background-color: aquamarine;
+}
+
+.child{
+    background-color: darkmagenta;
+    border-radius: 70px;
+}
+
